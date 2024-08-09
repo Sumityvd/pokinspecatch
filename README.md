@@ -1,4 +1,4 @@
-# Pokedex CLI
+# Pokinspecatch CLI
 
 Pokedex CLI is a command-line interface application written in Go. It allows
 users to interact with the Pokemon API to explore the map, catch and inspect Pokemon.
